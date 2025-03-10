@@ -1,9 +1,6 @@
-# bruteforce-captcha-bypass
-A Python script to brute-force login pages on CTFs while solving CAPTCHA dynamically. Handles username enumeration, password brute-forcing, and CAPTCHA bypass.
-
 # 🔓 Brute Force CAPTCHA Bypass  
 
-*A Python script to automate login brute-force attacks while bypassing arithmetic-based CAPTCHAs.*  
+A Python script to brute-force login pages on CTFs while solving CAPTCHA dynamically. Handles username enumeration, password brute-forcing, and CAPTCHA bypass.
 
 ---
 
